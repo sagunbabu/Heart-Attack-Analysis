@@ -14,6 +14,8 @@ plot(x,type= "o", col ="red", xlab = "gender", ylab = "chol", main = "Heart dise
 #col indicates the color
 #type -o draw both parts and lines, -i to draw only lines, -p to draw only the points
 
+https://github.com/sagunbabu/Heart-Attack-Analysis/blob/sagun/plots/Line%20Graph.jpeg?raw=true
+
 #pie chart
 x<-data1[1:13,"oldpeak"]
 Lables<- data1[1:13,"oldpeak"]
